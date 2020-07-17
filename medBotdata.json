@@ -53,7 +53,8 @@
         "Do you take credit cards?",
         "Do you accept Mastercard?",
         "Can I pay with Paypal?",
-        "Are you cash only?"
+        "Are you cash only?",
+        "payment?"
       ],
       "responses": [
         "We accept VISA, Mastercard and Paypal",
@@ -65,7 +66,10 @@
       "patterns": [
         "How long does delivery take?",
         "How long does shipping take?",
-        "When do I get my delivery?"
+        "When do I get my delivery?",
+        "delivery time?",
+        "Will it take a huge time to deliver the medicines?"
+
       ],
       "responses": [
         "Delivery takes 2 days",
@@ -82,18 +86,18 @@
       "responses": [
         "Yes, we have",
 		"Sure we have that!"
-      ],
-    }
+      ]
+    },
 	{
       "tag": "paracetamol no",
       "patterns": [
         "Any paracetamol?",
-        "Selling paracetamol?",
+        "Selling paracetamol?"
       ],
       "responses": [
         "I am afraid that I don't have any"
       ]
-    }
+    },
     {
       "tag": "vitamins",
       "patterns": [
@@ -102,7 +106,7 @@
         "Can you sell me vitamin pills?"
       ],
       "responses": [
-        "Yes, we have that",
+        "Yes, we have that"
       ]
     }
 
