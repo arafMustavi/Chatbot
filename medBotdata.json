@@ -68,7 +68,8 @@
         "How long does shipping take?",
         "When do I get my delivery?",
         "delivery time?",
-        "Will it take a huge time to deliver the medicines?"
+        "Will it take a huge time to deliver the medicines?",
+        "Delivery?"
 
       ],
       "responses": [
@@ -98,12 +99,27 @@
         "I am afraid that I don't have any"
       ]
     },
+     {
+      "tag": "Price",
+      "patterns": [
+        "What's the price?",
+        "How much do they cost?",
+        "Are they costly?",
+        "How much for each of the files?",
+        "payment?"
+      ],
+      "responses": [
+        "They are $5 each"
+      ]
+    },
+   
     {
       "tag": "vitamins",
       "patterns": [
         "Do you have vitamin pills?",
         "vitamin pills?",
-        "Can you sell me vitamin pills?"
+        "Can you sell me vitamin pills?",
+        "Vitamins?"
       ],
       "responses": [
         "Yes, we have that"
