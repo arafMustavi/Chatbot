@@ -1,7 +1,7 @@
 # medBOT
-medBOT, a Chatbot built using python. 
+**medBOT**, a Chatbot built using _python_. 
 
-Used python's NLTK package to tokenize and stem each word.PyTorch was used to train the model with the data from the medBotData.json file.
+Used python's _NLTK package_ to tokenize and stem each word._PyTorch_ was used to train the model with the data from the medBotData.json file.
 
 
 If you are excited to build a chatbot of your own, follow the steps.
