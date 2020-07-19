@@ -1,12 +1,17 @@
-# Chatbot
-Chatbot built using python. Used NLTK package to Stem Each word and PyTorch to Train the model with the data from the TrainData.json file.
+# medBOT
+**medBOT**, a Chatbot built using _python_. 
+
+Used python's _NLTK package_ to tokenize and stem each word._PyTorch_ was used to train the model with the data from the medBotData.json file.
+
 
 If you are excited to build a chatbot of your own, follow the steps.
 
-1.Tweak around the TrainData.json file to design your own conversation.
+1.Tweak around the medBotData.json file to design your own conversation.
 
-2.Add the TrainData.json file in the colab directory.
+2.Open the medBOT.ipynb file
 
-3.Restart and Run all the Cells
+3.Add the medBotData.json file in the colab's directory for th
 
-Thats's All!
+4.Restart and Run all the Cells
+
+Thats's All! You have a chatbot of your own :D
